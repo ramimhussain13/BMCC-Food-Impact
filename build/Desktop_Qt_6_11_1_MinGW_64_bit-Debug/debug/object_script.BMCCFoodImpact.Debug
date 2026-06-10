@@ -1,0 +1,10 @@
+debug/EnvironmentalImpact.o
+debug/ImpactCalculator.o
+debug/LandImpact.o
+debug/MenuDatabase.o
+debug/MenuItem.o
+debug/WaterImpact.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o

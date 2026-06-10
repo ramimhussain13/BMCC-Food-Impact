@@ -1,0 +1,10 @@
+release/EnvironmentalImpact.o
+release/ImpactCalculator.o
+release/LandImpact.o
+release/MenuDatabase.o
+release/MenuItem.o
+release/WaterImpact.o
+release/main.o
+release/mainwindow.o
+release/qrc_resources.o
+release/moc_mainwindow.o
