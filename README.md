@@ -3,7 +3,7 @@
 A desktop application, built with **Qt and C++**, that shows BMCC students the
 environmental footprint of cafeteria food and suggests greener choices.
 
-**Author:** Ramim Hussain (ID: 24718712)
+**Author:** Ramim Hussain
 **Course:** CSC211H Honors — Spring 2026
 
 ---
